@@ -1,0 +1,113 @@
+ 
+ 
+ 
+body, html{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #fff;
+ }
+
+
+ .container{
+     height: auto;
+     width: auto;
+     padding: 35px;
+     margin: 30px;
+     background: #fff;
+
+ }
+
+.dispo1{
+    display: inline;
+    float: left;
+    margin: 35px;
+    height: 500px;
+    width: 200px;
+    text-align: left;
+
+}
+.but1{
+    color: #fff;
+    border: none;
+}
+a {
+    list-style-type: none;
+}
+h2{
+
+}
+
+p{
+
+}
+
+.dispo2{
+    display: inline;
+    float: left;
+    height: 200px;
+    width: 400px;
+    text-align: left;
+    margin: 100px;
+}
+ .dispo3{
+    display: inline;
+
+ }
+
+ .but2{
+    color: white;
+    border: none;
+ }
+
+ .but22{
+   margin: 30px;
+    color: white;
+    border: none;
+ }
+
+ .but223{
+    color: white;
+    border: none;
+ }
+.dispo4{
+    display: inline;
+    float: right;
+    height: 500px;
+    width: 200px;
+    text-align: justify;
+}
+
+.but3 {
+    position: absolute;
+    top: 450px;
+    right: 250px;
+}
+.dispo5{
+    display: inline-block;;
+    float: left;
+    position: absolute;
+   
+    top: 600px;
+    left: 120px;
+}
+img{
+   float: left ;
+   border-radius: 150px 150px 0 0;
+   padding: 10px;
+}
+
+.dispo6{
+    display: inline;
+    position: absolute;
+}  
+.zac {
+    height: 20px;
+    width: 200px;
+    font-size: 250px;
+    float: center;
+    padding-right: -200px;
+    position: relative;
+    margin: 100px;
+    left: 500px;
+}
+
+   
