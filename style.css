@@ -81,8 +81,8 @@ p{
     top: 450px;
     right: 250px;
     background-color: #fff;
-   border-radius: 25px;
-    
+   border: black;
+    border-radius: 25px;
 }
 .dispo5{
     display: inline-block;;
