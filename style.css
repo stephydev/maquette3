@@ -26,7 +26,7 @@ body, html{
 
 }
 .but1{
-    color: #fff;
+    background-color: #fff;
     border: none;
 }
 a {
@@ -54,18 +54,18 @@ p{
  }
 
  .but2{
-    color: white;
+    background-color: #fff;
     border: none;
  }
 
  .but22{
    margin: 30px;
-    color: white;
+   background-color: #fff;
     border: none;
  }
 
  .but223{
-    color: white;
+    background-color: #fff;
     border: none;
  }
 .dispo4{
@@ -80,6 +80,8 @@ p{
     position: absolute;
     top: 450px;
     right: 250px;
+    background-color: #fff;
+    border: none;
 }
 .dispo5{
     display: inline-block;;
